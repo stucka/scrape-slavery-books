@@ -1,0 +1,7 @@
+jupyter
+simplejson
+requests
+pillow
+tqdm
+pyquery
+
